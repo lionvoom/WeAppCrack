@@ -1,5 +1,5 @@
 #### 背景
-在研究/升级wept后,目前已实现**XX小程序框架**跑通了**devtools模式**
+在研究/升级[wept](https://github.com/wetools/wept)后,目前已实现**XX小程序框架**跑通了**devtools模式**
 * 支持了大部分微信小程序常用API, [微信官方文档-小程序-开发-API](https://developers.weixin.qq.com/miniprogram/dev/api/)
 * 支持小游戏
 
