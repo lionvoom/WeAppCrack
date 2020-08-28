@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf8">
+            <script language="javascript">
+                var __cameraData__ = null;
+                
+              //获取相机帧数据//获取相机帧数据
+              function getCameraData() {
+                  var base64Data = prompt("getFrame","");
+                  if(base64Data) prompt('sendMessage', base64Data)
+                  requestAnimationFrame(getCameraData)
+              }
+
+              getCameraData()
+
+              WeAppWorker = {};
+              //向service发送事件的接口
+              WeAppWorker.sendMessage = function(msg){
+                  var param = JSON.stringify(msg);
+                var base64Data = prompt("sendMessage", param);
+              }
+
+              //监听service事件
+              WeAppWorker.appServiceMsgHandler = function(msg){
+                WeAppWorker.sendMessage(msg)
+              }
+            
+              </script>
+            </head>
+    
+    <body>
+    </body>
+</html>

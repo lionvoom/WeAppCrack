@@ -1,0 +1,7 @@
+{
+  "updateTime": "2020.4.20 23:32:42",
+  "version": "2.10.4",
+  "features": {
+    "pruneWxConfigByPage": true
+  }
+}

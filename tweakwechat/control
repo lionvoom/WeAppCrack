@@ -1,0 +1,9 @@
+Package: com.cg.tweakwechat
+Name: tweakwechat
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: w
+Author: w
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)

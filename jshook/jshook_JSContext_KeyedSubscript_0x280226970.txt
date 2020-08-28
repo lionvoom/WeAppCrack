@@ -1,0 +1,100 @@
+[2020-08-28 09:49:38.919 +0800] setObject:forKeyedSubscript:NativeGlobal
+[2020-08-28 09:49:38.921 +0800] JSValue([object GlobalObject]-0x2816b78e0)-setValue:forProperty:{
+},NativeGlobal
+[2020-08-28 09:49:38.923 +0800] objectForKeyedSubscript:NativeGlobal
+[2020-08-28 09:49:38.927 +0800] JSValue([object GlobalObject]-0x2816b78e0)-valueForProperty:NativeGlobal
+[2020-08-28 09:49:38.930 +0800] setObject:forKeyedSubscript:WeixinCanvas
+[2020-08-28 09:49:38.935 +0800] JSValue([object GlobalObject]-0x2816b78e0)-setValue:forProperty:{
+},WeixinCanvas
+[2020-08-28 09:49:38.942 +0800] objectForKeyedSubscript:WeixinCanvas
+[2020-08-28 09:49:38.944 +0800] JSValue([object GlobalObject]-0x2816b78e0)-valueForProperty:WeixinCanvas
+[2020-08-28 09:49:38.946 +0800] JSValue([object Object]-0x2816b1360)-setValue:forProperty:<__NSMallocBlock__: 0x280238f60>,requestAnimationFrame
+[2020-08-28 09:49:38.949 +0800] JSValue([object Object]-0x2816b1360)-setValue:forProperty:<__NSMallocBlock__: 0x28023ad60>,cancelAnimationFrame
+[2020-08-28 09:49:38.952 +0800] objectForKeyedSubscript:WeixinJSCore
+[2020-08-28 09:49:38.956 +0800] JSValue([object GlobalObject]-0x2816b78e0)-valueForProperty:WeixinJSCore
+[2020-08-28 09:49:38.959 +0800] setObject:forKeyedSubscript:WeixinJSCore
+[2020-08-28 09:49:38.965 +0800] JSValue([object GlobalObject]-0x2816b78e0)-setValue:forProperty:{
+},WeixinJSCore
+[2020-08-28 09:49:38.969 +0800] objectForKeyedSubscript:WeixinJSCore
+[2020-08-28 09:49:38.972 +0800] JSValue([object GlobalObject]-0x2816b78e0)-valueForProperty:WeixinJSCore
+[2020-08-28 09:49:38.976 +0800] JSValue([object Object]-0x281689c00)-valueForProperty:invokeHandler
+[2020-08-28 09:49:38.980 +0800] JSValue([object Object]-0x281689c00)-setValue:forProperty:<__NSMallocBlock__: 0x28020c720>,invokeHandler
+[2020-08-28 09:49:38.984 +0800] JSValue([object Object]-0x281689c00)-valueForProperty:publishHandler
+[2020-08-28 09:49:38.999 +0800] JSValue([object Object]-0x281689c00)-setValue:forProperty:<__NSMallocBlock__: 0x28020d050>,publishHandler
+[2020-08-28 09:49:39.002 +0800] JSValue([object Object]-0x281689c00)-valueForProperty:publishSync
+[2020-08-28 09:49:39.008 +0800] JSValue([object Object]-0x281689c00)-setValue:forProperty:<__NSMallocBlock__: 0x280bcab80>,publishSync
+[2020-08-28 09:49:39.012 +0800] JSValue([object Object]-0x281689c00)-valueForProperty:setTimerHandler
+[2020-08-28 09:49:39.015 +0800] JSValue([object Object]-0x281689c00)-setValue:forProperty:<__NSMallocBlock__: 0x280221080>,setTimerHandler
+[2020-08-28 09:49:39.017 +0800] JSValue([object Object]-0x281689c00)-setValue:forProperty:<__NSMallocBlock__: 0x280221f80>,clearTimerHandler
+[2020-08-28 09:49:39.020 +0800] objectForKeyedSubscript:systemLog
+[2020-08-28 09:49:39.026 +0800] JSValue([object GlobalObject]-0x2816b78e0)-valueForProperty:systemLog
+[2020-08-28 09:49:39.033 +0800] setObject:forKeyedSubscript:systemLog
+[2020-08-28 09:49:39.036 +0800] JSValue([object GlobalObject]-0x2816b78e0)-setValue:forProperty:<__NSGlobalBlock__: 0x10d1de978>,systemLog
+[2020-08-28 09:49:39.040 +0800] objectForKeyedSubscript:WeixinNativeBuffer
+[2020-08-28 09:49:39.044 +0800] JSValue([object GlobalObject]-0x2816b78e0)-valueForProperty:WeixinNativeBuffer
+[2020-08-28 09:49:39.050 +0800] setObject:forKeyedSubscript:WeixinNativeBuffer
+[2020-08-28 09:49:39.051 +0800] JSValue([object GlobalObject]-0x2816b78e0)-setValue:forProperty:{
+},WeixinNativeBuffer
+[2020-08-28 09:49:39.053 +0800] objectForKeyedSubscript:WeixinNativeBuffer
+[2020-08-28 09:49:39.056 +0800] JSValue([object GlobalObject]-0x2816b78e0)-valueForProperty:WeixinNativeBuffer
+[2020-08-28 09:49:39.060 +0800] JSValue([object Object]-0x281158740)-valueForProperty:new
+[2020-08-28 09:49:39.065 +0800] JSValue([object Object]-0x281158740)-setValue:forProperty:<__NSMallocBlock__: 0x2802e7a20>,new
+[2020-08-28 09:49:39.076 +0800] JSValue([object Object]-0x281158740)-setValue:forProperty:<__NSMallocBlock__: 0x2802e55f0>,get
+[2020-08-28 09:49:39.079 +0800] JSValue([object Object]-0x281158740)-setValue:forProperty:<__NSMallocBlock__: 0x2802e5f20>,destroy
+[2020-08-28 09:49:39.083 +0800] JSValue([object Object]-0x281158740)-setValue:forProperty:<__NSMallocBlock__: 0x2802cb510>,useCompatibleMode
+[2020-08-28 09:49:39.087 +0800] objectForKeyedSubscript:SharedBufferCore
+[2020-08-28 09:49:39.093 +0800] JSValue([object GlobalObject]-0x2816b78e0)-valueForProperty:SharedBufferCore
+[2020-08-28 09:49:39.096 +0800] setObject:forKeyedSubscript:SharedBufferCore
+[2020-08-28 09:49:39.100 +0800] JSValue([object GlobalObject]-0x2816b78e0)-setValue:forProperty:{
+},SharedBufferCore
+[2020-08-28 09:49:39.104 +0800] objectForKeyedSubscript:SharedBufferCore
+[2020-08-28 09:49:39.110 +0800] JSValue([object GlobalObject]-0x2816b78e0)-valueForProperty:SharedBufferCore
+[2020-08-28 09:49:39.115 +0800] JSValue([object Object]-0x281687e20)-valueForProperty:new
+[2020-08-28 09:49:39.117 +0800] JSValue([object Object]-0x281687e20)-setValue:forProperty:<__NSMallocBlock__: 0x280201500>,new
+[2020-08-28 09:49:39.120 +0800] JSValue([object Object]-0x281687e20)-setValue:forProperty:<__NSMallocBlock__: 0x2802015f0>,get
+[2020-08-28 09:49:39.123 +0800] JSValue([object Object]-0x281687e20)-setValue:forProperty:<__NSMallocBlock__: 0x2802016e0>,destroy
+[2020-08-28 09:49:39.127 +0800] JSValue([object Object]-0x281687e20)-setValue:forProperty:<__NSMallocBlock__: 0x280205350>,useCompatibleMode
+[2020-08-28 09:49:39.132 +0800] JSValue([object Object]-0x281687e20)-setValue:forProperty:<__NSMallocBlock__: 0x2802017d0>,Lock
+[2020-08-28 09:49:39.134 +0800] JSValue([object Object]-0x281687e20)-setValue:forProperty:<__NSMallocBlock__: 0x2802018c0>,Unlock
+[2020-08-28 09:49:39.138 +0800] objectForKeyedSubscript:WeixinArrayBuffer
+[2020-08-28 09:49:39.143 +0800] JSValue([object GlobalObject]-0x2816b78e0)-valueForProperty:WeixinArrayBuffer
+[2020-08-28 09:49:39.146 +0800] setObject:forKeyedSubscript:WeixinArrayBuffer
+[2020-08-28 09:49:39.150 +0800] JSValue([object GlobalObject]-0x2816b78e0)-setValue:forProperty:{
+},WeixinArrayBuffer
+[2020-08-28 09:49:39.153 +0800] objectForKeyedSubscript:WeixinArrayBuffer
+[2020-08-28 09:49:39.156 +0800] JSValue([object GlobalObject]-0x2816b78e0)-valueForProperty:WeixinArrayBuffer
+[2020-08-28 09:49:39.160 +0800] JSValue([object Object]-0x2816f97e0)-setValue:forProperty:<__NSMallocBlock__: 0x2802147e0>,create
+[2020-08-28 09:49:39.165 +0800] JSValue([object Object]-0x2816f97e0)-setValue:forProperty:<__NSMallocBlock__: 0x280266940>,destroy
+[2020-08-28 09:49:39.171 +0800] JSValue([object Object]-0x2816f97e0)-setValue:forProperty:<__NSMallocBlock__: 0x2802608a0>,get
+[2020-08-28 09:49:39.174 +0800] objectForKeyedSubscript:WeixinJSContext
+[2020-08-28 09:49:39.178 +0800] JSValue([object GlobalObject]-0x2816b78e0)-valueForProperty:WeixinJSContext
+[2020-08-28 09:49:39.184 +0800] setObject:forKeyedSubscript:WeixinJSContext
+[2020-08-28 09:49:39.185 +0800] JSValue([object GlobalObject]-0x2816b78e0)-setValue:forProperty:{
+},WeixinJSContext
+[2020-08-28 09:49:39.188 +0800] objectForKeyedSubscript:WeixinJSContext
+[2020-08-28 09:49:39.192 +0800] JSValue([object GlobalObject]-0x2816b78e0)-valueForProperty:WeixinJSContext
+[2020-08-28 09:49:39.196 +0800] JSValue([object Object]-0x281600ea0)-setValue:forProperty:<__NSMallocBlock__: 0x28027dbc0>,create
+[2020-08-28 09:49:39.200 +0800] JSValue([object Object]-0x281600ea0)-setValue:forProperty:<__NSMallocBlock__: 0x2802612c0>,alloc
+[2020-08-28 09:49:39.204 +0800] JSValue([object Object]-0x281600ea0)-setValue:forProperty:<__NSMallocBlock__: 0x2802611d0>,destroy
+[2020-08-28 09:49:39.207 +0800] JSValue([object Object]-0x281600ea0)-setValue:forProperty:<__NSMallocBlock__: 0x2802610e0>,evaluateScriptFile
+[2020-08-28 09:49:39.211 +0800] JSValue([object Object]-0x281600ea0)-setValue:forProperty:<__NSMallocBlock__: 0x28027dcb0>,loadJsFiles
+[2020-08-28 09:49:39.216 +0800] objectForKeyedSubscript:WeixinWorker
+[2020-08-28 09:49:39.218 +0800] JSValue([object GlobalObject]-0x2816b78e0)-valueForProperty:WeixinWorker
+[2020-08-28 09:49:39.222 +0800] setObject:forKeyedSubscript:WeixinWorker
+[2020-08-28 09:49:39.228 +0800] JSValue([object GlobalObject]-0x2816b78e0)-setValue:forProperty:{
+},WeixinWorker
+[2020-08-28 09:49:39.232 +0800] objectForKeyedSubscript:WeixinWorker
+[2020-08-28 09:49:39.236 +0800] JSValue([object GlobalObject]-0x2816b78e0)-valueForProperty:WeixinWorker
+[2020-08-28 09:49:39.239 +0800] JSValue([object Object]-0x2816121e0)-setValue:forProperty:<__NSMallocBlock__: 0x280260d80>,create
+[2020-08-28 09:49:39.242 +0800] JSValue([object Object]-0x2816121e0)-setValue:forProperty:<__NSMallocBlock__: 0x280260c90>,postMsgToWorker
+[2020-08-28 09:49:39.246 +0800] JSValue([object Object]-0x2816121e0)-setValue:forProperty:<__NSMallocBlock__: 0x28027e100>,terminate
+[2020-08-28 09:49:39.250 +0800] objectForKeyedSubscript:WeAppWorker
+[2020-08-28 09:49:39.255 +0800] JSValue([object GlobalObject]-0x2816b78e0)-valueForProperty:WeAppWorker
+[2020-08-28 09:49:39.258 +0800] setObject:forKeyedSubscript:WeAppWorker
+[2020-08-28 09:49:39.262 +0800] JSValue([object GlobalObject]-0x2816b78e0)-setValue:forProperty:{
+},WeAppWorker
+[2020-08-28 09:49:39.267 +0800] objectForKeyedSubscript:WeAppWorker
+[2020-08-28 09:49:39.270 +0800] JSValue([object GlobalObject]-0x2816b78e0)-valueForProperty:WeAppWorker
+[2020-08-28 09:49:39.273 +0800] JSValue([object Object]-0x281611a80)-setValue:forProperty:<__NSMallocBlock__: 0x2802607e0>,create
+[2020-08-28 09:49:39.277 +0800] JSValue([object Object]-0x281611a80)-setValue:forProperty:<__NSMallocBlock__: 0x2802606f0>,postMsgToWorker
+[2020-08-28 09:49:39.282 +0800] JSValue([object Object]-0x281611a80)-setValue:forProperty:<__NSMallocBlock__: 0x28027e280>,terminate

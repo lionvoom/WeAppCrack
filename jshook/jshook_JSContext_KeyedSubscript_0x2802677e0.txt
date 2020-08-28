@@ -1,0 +1,2 @@
+[2020-08-28 09:49:39.458 +0800] setObject:forKeyedSubscript:WeixinJSContext
+[2020-08-28 09:49:39.470 +0800] JSValue([object GlobalObject]-0x281603500)-setValue:forProperty:[object Object],WeixinJSContext
