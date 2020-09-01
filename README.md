@@ -63,3 +63,6 @@ var __wxConfig = {"insertToWebLayer":1,"system":"iOS 13.6","version":"7.0.15","i
 
 #### 参考微信小程序实现ios/android模式
 * [ ]  模拟微信小程序配置JSContext/WKWebview
+
+#### 加入研究
+QQ群:742900124(微信小程序框架逆向)
